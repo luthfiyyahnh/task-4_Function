@@ -1,6 +1,6 @@
 // Fungsi untuk menentukan nilai huruf berdasarkan angka
 function getLetterGrade(score) {
-    if (score >= 90) {
+    if (score >= 85) {
         return "A";
     } else if (score >= 80) {
         return "B";
